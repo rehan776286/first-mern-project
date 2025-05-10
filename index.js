@@ -8,3 +8,5 @@ const f = "farhan";
 
 const fraul = "farul";
 const sharifm = "sharim";
+
+const you = "not  me";
