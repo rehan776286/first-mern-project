@@ -12,4 +12,3 @@ const sharifm = "sharim";
 const you = "not  me";
 
 const mere = "zohan khan";
-const mere = "jdjaklj";
