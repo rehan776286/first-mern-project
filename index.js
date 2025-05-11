@@ -10,6 +10,3 @@ const fraul = "farul";
 const sharifm = "sharim";
 
 const you = "not  me";
-
-const mere = "zohan khan";
-const form = "rehn";
